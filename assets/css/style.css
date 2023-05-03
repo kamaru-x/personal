@@ -159,9 +159,9 @@ body{
     position: absolute;
     top: 25%;
     left: 0;
-    background: url(../image/curn-icon.png) no-repeat top left;
-    -webkit-animation: mover 1s infinite  alternate;
-    animation: mover 1s infinite  alternate;
+    /* background: url(../image/curn-icon.png) no-repeat top left; */
+    /* -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate; */
 }
 .banner-right-con::after{
     content: "";
@@ -170,9 +170,9 @@ body{
     position: absolute;
     bottom:100px;
     right: -58%;
-    background: url(../image/triangle-icon.png) no-repeat top left;
-    -webkit-animation: mover 1s infinite  alternate;
-    animation: mover 2s infinite  alternate;
+    /* background: url(../image/triangle-icon.png) no-repeat top left; */
+    /* -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 2s infinite  alternate; */
 }
 .happy-con::before{
     content: "";
@@ -213,9 +213,9 @@ body{
     position: absolute;
     top: 207px;
     left: 0;
-    background: url(../image/circle-bg-left-img.png) no-repeat top left;
+    /* background: url(../image/circle-bg-left-img.png) no-repeat top left;
     animation: right-mover 1s infinite alternate;
-    -webkit-animation: right-mover 1s infinite alternate;
+    -webkit-animation: right-mover 1s infinite alternate; */
 }
 .service-con::after{
     content: "";
@@ -224,9 +224,9 @@ body{
     position: absolute;
     top: 154px;
     left: 72px;
-    background: url(../image/half-circle-left-icon.png) no-repeat top left;
+    /* background: url(../image/half-circle-left-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
-    -webkit-animation: mover 1s infinite alternate;
+    -webkit-animation: mover 1s infinite alternate; */
 }
 .service-inner-con:after {
     content: "";
@@ -235,9 +235,9 @@ body{
     position: absolute;
     bottom: 190px;
     right: -116px;
-    background: url(../image/corn-left-icon.png) no-repeat top left;
+    /* background: url(../image/corn-left-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
-    -webkit-animation: mover 1s infinite alternate;
+    -webkit-animation: mover 1s infinite alternate; */
 }
 .service-inner-con h2{
     color: var(--white-color);
@@ -450,9 +450,9 @@ body{
     position: absolute;
     bottom: 64px;
     right: -116px;
-    background: url(../image/corn-left-icon.png) no-repeat top left;
+    /* background: url(../image/corn-left-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
-    -webkit-animation: mover 1s infinite alternate;
+    -webkit-animation: mover 1s infinite alternate; */
 }
 .portfolio-btn {
     margin-top: 26px;
@@ -477,9 +477,9 @@ body{
     position: absolute;
     top: 207px;
     right: 0;
-    background: url(../image/circle-bg-img.png) no-repeat top right;
+    /* background: url(../image/circle-bg-img.png) no-repeat top right;
     animation: left-mover 1s infinite alternate;
-    -webkit-animation: left-mover 1s infinite alternate;
+    -webkit-animation: left-mover 1s infinite alternate; */
 }
 .skill-con::before {
     content: "";
@@ -488,9 +488,9 @@ body{
     position: absolute;
     top: 154px;
     right:72px;
-    background: url(../image/half-circle-right-icon.png) no-repeat top left;
+    /* background: url(../image/half-circle-right-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
-    -webkit-animation: mover 1s infinite alternate;
+    -webkit-animation: mover 1s infinite alternate; */
 }
 
 .skill-inner-con::before {
@@ -500,9 +500,9 @@ body{
     position: absolute;
     bottom: 26px;
     left: -116px;
-    background: url(../image/triangle-icon.png) no-repeat top left;
+    /* background: url(../image/triangle-icon.png) no-repeat top left;
     -webkit-animation: mover 1s infinite alternate;
-    animation: mover 1s infinite alternate;
+    animation: mover 1s infinite alternate; */
 }
 
 .service-skill-sttaf-item-heading p{
@@ -896,9 +896,9 @@ body{
     position: absolute;
     bottom: 140px;
     right: -116px;
-    background: url(../image/corn-left-icon.png) no-repeat top left;
+    /* background: url(../image/corn-left-icon.png) no-repeat top left;
     animation: mover 1s infinite alternate;
-    -webkit-animation: mover 1s infinite alternate;
+    -webkit-animation: mover 1s infinite alternate; */
 }
 /******form section******/
 /******footer section*******/
@@ -1418,9 +1418,9 @@ body{
 .blog-content .footer-social-icon ul li a .fab.fa-behance:hover{
     background-color: #255afc;
 }
-.banner-right-con img[alt="banner-right-img"]{
+/* .banner-right-con img[alt="banner-right-img"]{
     animation: right-mover 1s ease-in-out infinite alternate;
-}
+} */
 .blog-model-con p{
     margin-bottom: 60px !important;
 }
